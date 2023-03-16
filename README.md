@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on: A website that will finally solve the mystery of why the CSS won't center.<br><br>👯 Looking to collaborate on: A project that will automate my job so I can finally take a vacation.<br><br>💬 Ask me about: How many cups of coffee it takes to write a single line of code.<br><br>🌱 Currently learning: The art of writing code that looks like it makes sense, even though I have no idea what I'm doing.<br><br>⚡ Fun fact: Debugging is like being a detective in a crime movie where you are also the murderer.
+🔭 Working on: A website that will finally solve the mystery of why the CSS won't center.<br><br>👯 Looking to collaborate on: A project that will replace all semicolons in code with emojis.<br><br>💬 Ask me about: How many cups of coffee it takes to write a single line of code.<br><br>🌱 Currently learning: How to make a website that's so beautiful, even my mom will be impressed.<br><br>⚡ Fun fact: The shortest and most effective code refactoring technique is to delete all the code and start over.
 
 
 ## 🌐 Socials:
